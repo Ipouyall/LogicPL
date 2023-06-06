@@ -1,0 +1,10 @@
+Line 6: Variable num1 is not declared
+Line 6: Variable a is not declared
+Line 8: Variable num2 is not declared
+Line 8: Variable num1 is not declared
+Line 11: Variable num1 is not declared
+Line 11: Variable a is not declared
+Line 15: Variable a is not declared
+Line 15: Variable b is not declared
+Line 15: Function isDoubled is not declared
+Line 19: Function isPossible is not declared

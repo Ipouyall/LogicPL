@@ -1,0 +1,109 @@
+function f(int a) : boolean {
+    return true;
+}
+function fint(int a) : int {
+    int a ;
+    a = 2.0;
+    print([?Ev(gs)]);
+    a = 2.0 * 2 / 4.0 + 3.0  - 2 * ar[2] - gs;
+    int[4] ar;
+    a = ar[3];
+    float b;
+    b = ar[3];
+    ar[3] = b;
+    int[4] ar22 = [2, 3, 2, 2];
+    int gs;
+
+#funcCall:
+   int a11;
+   dd = randf(a11);
+   boolean v = f(true);
+   c = i(aaa[3]);
+
+#query:
+#implicatiton:
+    ([?Ev(t)]) => (return;)
+    (3) => (return 4;)
+    int a;
+    (f(a) || true ) => (return 44;)
+    (fint(s) || true ) => (return 33;)
+#imp:
+    ([?Ev(a)] + 2) => (return f33; print(ss);)
+
+
+
+#for loop
+   int arr0;
+   for (a : arr0) {
+            a = 2.0 * 2 / 4.0 + 3.0  - 2 * ar66[2] - gs66;
+            int[4] ar66;
+            a = ar[3];
+       int bfor;
+#query:
+#implicatiton:
+        ([?Ev(t)]) => (for ( d: arr0) { for (f : ff) { return tt; int b67; } int c67; } )
+
+        (3) => (return 4;)
+        int a;
+        (f(a) || true ) => (return d44;)
+        (fint(s) || true ) => (return 33;)
+   #imp:
+        ([?Ev(a)] + 2) => (return f33; print(ss);)
+
+#print:
+        int a1;
+        print(a1);
+        print(g);
+        print([?Ev(g)]);
+        print([Ev(?)]);
+        r = a8989(aoo);
+   }
+
+   bfor = 0;
+   b67 = 9;
+   c67 =10;
+   return true;
+}
+
+main {
+    s = fint(b);
+    boolean ss = fint(b);
+    int s = fnot(h);
+
+    int a = (true * 4) / 4;
+    int  gg = (true * 4) < 4;
+
+    int[3] ar = [true, false, 3];
+
+     a = 2.0 * 2 / 4.0 + 3.0  - 2 * ar4[2];
+    int[3] ar4;
+
+    int uu = 3 / uuu;
+    int[3] a6;
+    float[3] a88;
+    float[2] a99;
+    a6 = a88;
+    a6 = a99;
+    a99 = a88;
+
+    for(d : dd) {
+        int o0;
+        for (f : ddd) {
+            float o11;
+            for (fl : ll)  {
+                int[4] arr999;
+                (true) => (int a80;for (s :ss ){int yy = 0;} )
+            }
+        }
+        o0 = 0;
+    }
+    d = 171;
+    fl = 0;
+    o0 = o11;
+    arr999 = o0;
+    arr999 = o11;
+    a80 = true;
+    uu =0;
+    print(yy);
+    int a = fint(some);
+}

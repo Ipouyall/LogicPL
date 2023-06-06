@@ -1,0 +1,8 @@
+function fuck() : int {
+    int b = a + 2;
+}
+
+main {
+    int a = 10;
+    int c = fuck();
+}

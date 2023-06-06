@@ -1,0 +1,46 @@
+Line 6: Unsupported operand type for operator assign
+Line 8: Unsupported operand type for operator div
+Line 8: Unsupported operand type for operator sub
+Line 12: Unsupported operand type for operator assign
+Line 13: Unsupported operand type for operator assign
+Line 19: Variable dd is not declared
+Line 19: Function randf is not declared
+Line 21: Variable c is not declared
+Line 21: Function i is not declared
+Line 25: Variable t is not declared
+Line 26: condition type must be Boolean
+Line 29: Unsupported operand type for operator or
+Line 31: Variable f33 is not declared
+Line 38: Unsupported operand type for operator div
+Line 38: Variable ar66 is not declared
+Line 38: Variable gs66 is not declared
+Line 44: Variable t is not declared
+Line 44: Variable ff is not declared
+Line 44: Variable tt is not declared
+Line 46: condition type must be Boolean
+Line 48: Variable d44 is not declared
+Line 49: Unsupported operand type for operator or
+Line 51: Variable f33 is not declared
+Line 56: Variable g is not declared
+Line 57: Variable g is not declared
+Line 59: Variable r is not declared
+Line 59: Function a8989 is not declared
+Line 69: Variable b is not declared
+Line 70: Variable b is not declared
+Line 70: Unsupported operand type for operator assign
+Line 71: Function fnot is not declared
+Line 73: Unsupported operand type for operator mult
+Line 74: Unsupported operand type for operator mult
+Line 76: Unsupported operand type for operator assign
+Line 76: Unsupported operand type for operator assign
+Line 78: Unsupported operand type for operator div
+Line 78: Unsupported operand type for operator sub
+Line 81: Variable uuu is not declared
+Line 85: Unsupported operand type for operator assign
+Line 86: Unsupported operand type for operator assign
+Line 89: Variable dd is not declared
+Line 91: Variable ddd is not declared
+Line 93: Variable ll is not declared
+Line 101: Unsupported operand type for operator assign
+Line 103: Unsupported operand type for operator assign
+Line 104: Unsupported operand type for operator assign
