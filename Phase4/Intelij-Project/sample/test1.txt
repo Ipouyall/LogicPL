@@ -1,0 +1,11 @@
+function calculate(): int {
+    int p = 128;
+    int q = 4;
+    int result = 0;
+    result = 3 + p / q ;
+    int x = 2 + 7 * result - q;
+    return result;
+}
+main{
+    calculate();
+}
